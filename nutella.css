@@ -56,7 +56,26 @@
   margin-right: auto;
   width: 30%;
 }
+.Ingredients {
+  text-align: center;
+  font-size: 40px;
+  text-shadow: 0.02em 0.02em 0 rgb(46, 42, 42);
+  width: 50%;
+  margin: 40px auto;
+  background-color: rgb(218, 213, 216);
+  color: rgb(6, 6, 6);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 8px 15px;
+}
+.List {
+  background-color: rgb(255, 255, 255);
+  color: rgb(34, 26, 26);
+  margin: 5px auto;
+  font-size: 23px;
+  text-shadow: 0.02em 0.02em 0 rgb(46, 42, 42);
+  padding: 30px;
+}
 .text {
+  margin-top: 120px;
   position: relative;
   text-align: center;
   top: 50%;
